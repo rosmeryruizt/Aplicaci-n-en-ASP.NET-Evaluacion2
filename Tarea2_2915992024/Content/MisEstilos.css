@@ -1,0 +1,34 @@
+﻿.bodyStyle {
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px
+}
+
+.encabezadoStyle {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: #449d44;
+    color: white
+}
+
+.paddingStyle {
+    padding-bottom: 100px;
+}
+
+.footerStyle {
+    margin-bottom: 0px;
+    background-color: #449d44;
+    color: white
+}
+
+.btnStyle {
+    display: inline-block;
+    min-width: 11.6rem;
+    text-align: center;
+    padding: .6rem 1.25rem
+}
+
+.colorStyle {
+    background-color: white
+}
